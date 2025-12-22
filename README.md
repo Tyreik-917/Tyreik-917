@@ -7,11 +7,11 @@ My name is Tyreik Rogers. I am a first-generation student studying computer scie
 - Additional: Data Visualization, Bootstrap, React, HTML/CSS, Tailwind CSS, Canva, Adobe
 
 ## Hobbies/Interest
-Photography (Mainly of Nature)
-Reading (Fiction and Mystery) 
-Music 
-Gaming
-Physical Activities (Rock Climbing, Hiking, Soccer, Volleyball, Kayaking)
+- Photography (Mainly of Nature)
+- Reading (Fiction and Mystery) 
+- Music 
+- Gaming
+- Physical Activities (Rock Climbing, Hiking, Soccer, Volleyball, Kayaking)
 <!--
 **Tyreik-917/Tyreik-917** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
