@@ -1,7 +1,8 @@
 ## Hi there 👋
  My name is Tyreik Rogers. I am a first-generation student studying computer science at Binghamton University interested in Software engineering, Cybersecurity, and Web development.
 
-
+## Hi there 👋
+ My name is Tyreik Rogers. I am a first-generation student studying computer science at Binghamton University interested in Software engineering, Cybersecurity, and Web development.
 <!--
 **Tyreik-917/Tyreik-917** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
