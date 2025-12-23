@@ -1,10 +1,10 @@
 ## Hey there! 👋
-My name is Tyreik Rogers. I am a first-generation student studying computer science at Binghamton University interested in Software engineering, Cybersecurity, and Web development.
+My name is Tyreik Rogers. I am a first-generation student studying computer science at Binghamton University, interested in Software engineering, Cybersecurity, and Web development.
 
 ## Skills 🛠️ 
 - Languages: C++, Java, Python, JavaScript, TypeScript
-- Software and OS: Visual Studio Code, Jupyter Notebook, Linux, Git, GitHub
-- Additional: Data Visualization, Bootstrap, React, HTML/CSS, Tailwind CSS, Canva, Adobe
+- Frameworks/Tools: React, Node.js, Tailwind CSS, Bootstrap, Git, GitHub, Linux
+- Data Science: NumPy, Pandas, Scikit-learn, Data Visualization, Matplotlib/Seaborn
 
 ## Hobbies/Interest 🌟
 - Photography (Mainly of Nature)
